@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"SmotrovaLilit/docconv/client"
+	"github.com/SmotrovaLilit/docconv/client"
 )
 
 var (

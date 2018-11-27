@@ -12,8 +12,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"SmotrovaLilit/docconv/iWork"
-	"SmotrovaLilit/docconv/snappy"
+	"github.com/SmotrovaLilit/docconv/iWork"
+	"github.com/SmotrovaLilit/docconv/snappy"
 )
 
 // ConvertPages converts a Pages file to text.

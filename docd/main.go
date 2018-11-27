@@ -4,11 +4,10 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"github.com/SmotrovaLilit/docconv"
 	"log"
 	"net/http"
 	"os"
-
-	"SmotrovaLilit/docconv"
 )
 
 var (
