@@ -1,4 +1,4 @@
-package docconv // import "SmotrovaLilit/docconv"
+package docconv // import "github.com/SmotrovaLilit/docconv"
 
 import (
 	"encoding/json"
