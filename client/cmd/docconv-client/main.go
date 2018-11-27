@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"code.sajari.com/docconv/client"
+	"SmotrovaLilit/docconv/client"
 )
 
 var (

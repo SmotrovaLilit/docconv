@@ -1,4 +1,4 @@
-module code.sajari.com/docconv
+module SmotrovaLilit/docconv
 
 require (
 	github.com/JalfResi/justext v0.0.0-20170829062021-c0282dea7198
